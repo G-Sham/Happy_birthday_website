@@ -27,7 +27,7 @@ export function LetterDisplay() {
   return (
     <section className="w-full max-w-2xl text-center">
       <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
-        Happy Birthday My Bestiee
+        Happy Birthday
       </h1>
       <p className="mt-2 text-lg text-muted-foreground">
         A Beautiful message for a beautiful person
