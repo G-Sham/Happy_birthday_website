@@ -55,7 +55,7 @@ export default function MemoriesPage() {
 
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground">
-            My cutie cutie pics of you
+            Pictures
           </h1>
           <p className="mt-4 text-lg md:text-xl text-muted-foreground">
             A collection of moments that I'll cherish forever. Click on a memory!
