@@ -48,4 +48,4 @@ This project is designed to be easily personalized. Here is where to find the ke
 * **Bottom Question:** To edit the interactive question at the footer, modify the text inside:
   `src/components/home/InteractiveApology.tsx`
 
-###For the live website: https://happy-birthday-website-iota.vercel.app/
+### For the live website: https://happy-birthday-website-iota.vercel.app/
